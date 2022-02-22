@@ -55,7 +55,7 @@ body {
 .message-container {
   display: flex;
   flex-direction: column;
-  background-color: #f6f6f6;
+  background-color: #8f7373;
   width: 400px;
   height: 600px;
   overflow-y: scroll;
@@ -138,4 +138,9 @@ body {
 .clients-total {
   margin: 20px 0;
   color: #7e7e7e;
+}
+footer{
+  background-color: rgb(17, 11, 11);
+  color: white;
+  padding: 9px 20px;
 }
